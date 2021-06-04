@@ -4,15 +4,12 @@
 
 ***
 
-### Скриншоты меню!
-![main](https://user-images.githubusercontent.com/82971106/120784264-92650f80-c534-11eb-8f74-865100b8b906.png) ![skin](https://user-images.githubusercontent.com/82971106/120784283-97c25a00-c534-11eb-8acb-62f83f951df0.png) ![settings](https://user-images.githubusercontent.com/82971106/120784348-a741a300-c534-11eb-9a5a-6cdb51d8e9f4.png)
-
-
-
+### Скриншоты меню
+![main](https://user-images.githubusercontent.com/82971106/120784264-92650f80-c534-11eb-8f74-865100b8b906.png) ![skin](https://user-images.githubusercontent.com/82971106/120784283-97c25a00-c534-11eb-8acb-62f83f951df0.png)
 
 ***
 
-### Возможности скрипта:
+### Возможности скрипта
   * добавление аксессуаров
   * изменение цвета добавленых аксессуаров
   * изменение скина
