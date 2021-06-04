@@ -2,7 +2,12 @@
 
 Скрипт для SAMP, с помощью которого вы сможете добавить визуальные аксессуары на своего персонажа. Аксессуары взяты с проекта Arizona Role Play
 
-![image](https://user-images.githubusercontent.com/82971106/120783768-08b54200-c534-11eb-9700-86ec132a1b98.png)
+***
+
+### Скриншоты меню!
+[main](https://user-images.githubusercontent.com/82971106/120784264-92650f80-c534-11eb-8f74-865100b8b906.png)
+![skin](https://user-images.githubusercontent.com/82971106/120784283-97c25a00-c534-11eb-8acb-62f83f951df0.png)
+:
 
 
 ***
